@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://arxiv.org/pdf/2511.14900"><img src="https://img.shields.io/badge/📄%20Paper-arXiv-b31b1b?logo=arxiv&logoColor=white" alt="Paper"></a>
-  <a href="https://huggingface.co/zml5418/SkinR1-Qwen2.5-VL-7B-LoRA"><img src="https://img.shields.io/badge/🤗%20Model%20Weights-HuggingFace-yellow?logo=huggingface&logoColor=black" alt="Model Weights"></a>
+  <a href="https://huggingface.co/zml5418/SkinR1-Qwen2.5-VL-7B-LoRA"><img src="https://img.shields.io/badge/🤗%20Model%20Weights-HuggingFace-yellow" alt="Model Weights"></a>
 </p>
 
 Skin-R1 is a dermatology vision–language model (VLM) that combines **textbook-grounded clinical reasoning** with **reinforcement learning (RL)** for scalable diagnostic reasoning on Qwen2.5-VL.
